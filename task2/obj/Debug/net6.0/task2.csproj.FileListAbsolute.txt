@@ -1,0 +1,16 @@
+C:\SV\GB\Lang_prog\mpl5\task2\obj\Debug\net6.0\task2.GlobalUsings.g.cs
+C:\SV\GB\Lang_prog\mpl5\task2\obj\Debug\net6.0\task2.csproj.AssemblyReference.cache
+C:\SV\GB\Lang_prog\mpl5\task2\obj\Debug\net6.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\SV\GB\Lang_prog\mpl5\task2\obj\Debug\net6.0\task2.AssemblyInfoInputs.cache
+C:\SV\GB\Lang_prog\mpl5\task2\obj\Debug\net6.0\task2.AssemblyInfo.cs
+C:\SV\GB\Lang_prog\mpl5\task2\obj\Debug\net6.0\task2.csproj.CoreCompileInputs.cache
+C:\SV\GB\Lang_prog\mpl5\task2\bin\Debug\net6.0\task2.exe
+C:\SV\GB\Lang_prog\mpl5\task2\bin\Debug\net6.0\task2.deps.json
+C:\SV\GB\Lang_prog\mpl5\task2\bin\Debug\net6.0\task2.runtimeconfig.json
+C:\SV\GB\Lang_prog\mpl5\task2\bin\Debug\net6.0\task2.dll
+C:\SV\GB\Lang_prog\mpl5\task2\bin\Debug\net6.0\ref\task2.dll
+C:\SV\GB\Lang_prog\mpl5\task2\bin\Debug\net6.0\task2.pdb
+C:\SV\GB\Lang_prog\mpl5\task2\obj\Debug\net6.0\task2.dll
+C:\SV\GB\Lang_prog\mpl5\task2\obj\Debug\net6.0\ref\task2.dll
+C:\SV\GB\Lang_prog\mpl5\task2\obj\Debug\net6.0\task2.pdb
+C:\SV\GB\Lang_prog\mpl5\task2\obj\Debug\net6.0\task2.genruntimeconfig.cache
