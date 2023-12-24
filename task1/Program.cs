@@ -2,9 +2,9 @@
 while (i<1 || i>30 || j<1 || j>31)
 {
     Console.Write("Введите количество элементов в строке массива (от 1 до 30): ");
-    i = Convert.ToInt32(Console.ReadLine());
-    Console.Write("Введите количество строк массива (от 1 до 30): ");
     j = Convert.ToInt32(Console.ReadLine());
+    Console.Write("Введите количество строк массива (от 1 до 30): ");
+    i = Convert.ToInt32(Console.ReadLine());
     if (i<1 || i>30 || j<1 || j>31) Console.WriteLine("Неверный ввод!\n");
     else Console.WriteLine();
 }
@@ -64,6 +64,4 @@ int myElement(int[,] array, int m, int n)
         return 0;
     }
     return array[m,n];
-
-
 }
