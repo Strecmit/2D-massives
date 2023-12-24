@@ -1,0 +1,15 @@
+D:\GeekBrain\2d-massives\2D-massives\task4\obj\Debug\net6.0\task4.csproj.AssemblyReference.cache
+D:\GeekBrain\2d-massives\2D-massives\task4\obj\Debug\net6.0\task4.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrain\2d-massives\2D-massives\task4\obj\Debug\net6.0\task4.AssemblyInfoInputs.cache
+D:\GeekBrain\2d-massives\2D-massives\task4\obj\Debug\net6.0\task4.AssemblyInfo.cs
+D:\GeekBrain\2d-massives\2D-massives\task4\obj\Debug\net6.0\task4.csproj.CoreCompileInputs.cache
+D:\GeekBrain\2d-massives\2D-massives\task4\bin\Debug\net6.0\task4.exe
+D:\GeekBrain\2d-massives\2D-massives\task4\bin\Debug\net6.0\task4.deps.json
+D:\GeekBrain\2d-massives\2D-massives\task4\bin\Debug\net6.0\task4.runtimeconfig.json
+D:\GeekBrain\2d-massives\2D-massives\task4\bin\Debug\net6.0\task4.dll
+D:\GeekBrain\2d-massives\2D-massives\task4\bin\Debug\net6.0\task4.pdb
+D:\GeekBrain\2d-massives\2D-massives\task4\obj\Debug\net6.0\task4.dll
+D:\GeekBrain\2d-massives\2D-massives\task4\obj\Debug\net6.0\refint\task4.dll
+D:\GeekBrain\2d-massives\2D-massives\task4\obj\Debug\net6.0\task4.pdb
+D:\GeekBrain\2d-massives\2D-massives\task4\obj\Debug\net6.0\task4.genruntimeconfig.cache
+D:\GeekBrain\2d-massives\2D-massives\task4\obj\Debug\net6.0\ref\task4.dll
