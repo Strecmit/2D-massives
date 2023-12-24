@@ -1,0 +1,16 @@
+C:\SV\GB\Lang_prog\mpl5\task1\obj\Debug\net6.0\task1.GlobalUsings.g.cs
+C:\SV\GB\Lang_prog\mpl5\task1\obj\Debug\net6.0\task1.csproj.AssemblyReference.cache
+C:\SV\GB\Lang_prog\mpl5\task1\obj\Debug\net6.0\task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\SV\GB\Lang_prog\mpl5\task1\obj\Debug\net6.0\task1.AssemblyInfoInputs.cache
+C:\SV\GB\Lang_prog\mpl5\task1\obj\Debug\net6.0\task1.AssemblyInfo.cs
+C:\SV\GB\Lang_prog\mpl5\task1\obj\Debug\net6.0\task1.csproj.CoreCompileInputs.cache
+C:\SV\GB\Lang_prog\mpl5\task1\bin\Debug\net6.0\task1.exe
+C:\SV\GB\Lang_prog\mpl5\task1\bin\Debug\net6.0\task1.deps.json
+C:\SV\GB\Lang_prog\mpl5\task1\bin\Debug\net6.0\task1.runtimeconfig.json
+C:\SV\GB\Lang_prog\mpl5\task1\bin\Debug\net6.0\task1.dll
+C:\SV\GB\Lang_prog\mpl5\task1\bin\Debug\net6.0\ref\task1.dll
+C:\SV\GB\Lang_prog\mpl5\task1\bin\Debug\net6.0\task1.pdb
+C:\SV\GB\Lang_prog\mpl5\task1\obj\Debug\net6.0\task1.dll
+C:\SV\GB\Lang_prog\mpl5\task1\obj\Debug\net6.0\ref\task1.dll
+C:\SV\GB\Lang_prog\mpl5\task1\obj\Debug\net6.0\task1.pdb
+C:\SV\GB\Lang_prog\mpl5\task1\obj\Debug\net6.0\task1.genruntimeconfig.cache
